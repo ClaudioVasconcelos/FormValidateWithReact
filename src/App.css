@@ -28,7 +28,15 @@ body,
   margin: 10px 0;
   width: 500px;
 }
-
+.form-group h1 {
+  margin-bottom: 70px;
+}
+h1 {
+  display: block;
+  margin: 0 auto;
+  color: #fff;
+  text-transform: uppercase;
+}
 .checkbox-group {
   flex-direction: row;
   align-items: center;

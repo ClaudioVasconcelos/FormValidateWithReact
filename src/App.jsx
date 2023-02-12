@@ -1,9 +1,8 @@
-import BadForm from "./components/BadForm";
-
 import "./App.css";
+import GoodForm from "./components/GoodForm";
 
 const App = () => {
-  return <BadForm />;
+	return <GoodForm />;
 };
 
 export default App;
